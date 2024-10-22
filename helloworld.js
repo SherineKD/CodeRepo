@@ -1,4 +1,3 @@
-
 var createHelloWorld = function() {
     
     return function() {
